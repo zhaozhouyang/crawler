@@ -56,6 +56,7 @@ function toPlainTxtFile (domObj) {
 }
 
 function resultFormatter (domObj, $) {
+  if (!fs.existsSync('./data')) fs.mkdirSync('./data')
   const filePath = `./data/${domObj.value.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g, '')}`
   if (!fs.existsSync(filePath)) fs.mkdirSync(filePath)
   toRawHtml(domObj, $)
