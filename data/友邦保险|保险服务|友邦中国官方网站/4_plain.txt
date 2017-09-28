@@ -70,8 +70,6 @@ Search
 投资连结保险帐户单位价格查询
 万能寿险每月实际结算利率（个险）
 万能寿险每月实际结算利率（个险）
-理赔收据公示查询
-理赔收据公示查询
 我的专区
 在线购买保险
 网上客户服务中心
@@ -171,7 +169,6 @@ Dismiss
 常见理赔医院查询
 投资连结保险帐户单位价格查询
 万能寿险每月实际结算利率（个险）
-理赔收据公示查询
 Dismiss
 Dismiss
 Dismiss
@@ -213,9 +210,9 @@ Dismiss
 {{title}}
 {{label}}
 ×
-金秋收获季
+终点之后多跑1KM
 活动详情
-换个地方约会
+金秋收获季
 活动详情
 超值旅游产品
 进入商城
@@ -223,10 +220,10 @@ Dismiss
 观看视频
 五星之耀
 活动详情
+友邦保险 X 贝克汉姆
+关注全球大使小贝，赢取酷炫好礼！
 保费试算有礼
 赢取一号店礼品卡和冰激凌券
-健康友行
-一点改变，开启健康长久好生活
 全方位旅行保障
 点击轻松购，好礼等你拿！
 以信为本
@@ -5057,15 +5054,15 @@ Find a branch
 
         +function ($) { "use strict";
 
-            $( "#aia1408476418" ).click(function() {
+            $( "#aia1983862419" ).click(function() {
                 var current = $(this).val();
                 if (current != null) {
-                	$("#aia1408476418").css('color','#554344');
+                	$("#aia1983862419").css('color','#554344');
                 }
 
             });
 
-			$( "#aia1408476418" ).change(function() {
+			$( "#aia1983862419" ).change(function() {
             	$(this).css({'color': '#554344'});
             });
 
@@ -5088,6 +5085,14 @@ Find a branch
 
 
 
+
+	
+
+
+
+
+
+		
 
 
 
@@ -5149,107 +5154,15 @@ Find a branch
 
         +function ($) { "use strict";
 
-            $( "#aia1408476418" ).click(function() {
+            $( "#aia1983862419" ).click(function() {
                 var current = $(this).val();
                 if (current != null) {
-                	$("#aia1408476418").css('color','#554344');
+                	$("#aia1983862419").css('color','#554344');
                 }
 
             });
 
-			$( "#aia1408476418" ).change(function() {
-            	$(this).css({'color': '#554344'});
-            });
-
-        }(jQuery);
-
-    
-
-
-
-        
-        
-            
-
-    
-
-
-
-
-    
-
-
-
-
-
-
-
-  $(function() {
-
-  var indexUrl = "/content/cn/zh-cn/tools/";
-    $('.service-div *[name=service1]').on('change',function(){
-      $(".main-div1").html("<div style=\"text-align: center;\">载入中...</div>");
-      var service = $('.service-div *[name=service1]').val();
-      if(service == "gmyy"){
-        var url ='appointment1.html';
-    	$.get(indexUrl + url, function(html) {
-    	  $('.main-div1').html(html);
-    	});
-      }else{
-        var url ='service1.html';
-    	$.get(indexUrl + url, function(html) {
-    	  $('.main-div1').html(html);
-    	});        
-      }
-    });
-
-  });
-您需要我们提供什么服务？*
-        
-        
-            
-
-
-        
-    
-
-    
-
-
-
-
-    
-        请选择
-        
-        
-            购买预约
-            
-        
-            服务咨询
-            
-        
-            投诉
-            
-        
-            建议
-            
-        
-    
-    
-
-    
-
-        +function ($) { "use strict";
-
-            $( "#aia1408476418" ).click(function() {
-                var current = $(this).val();
-                if (current != null) {
-                	$("#aia1408476418").css('color','#554344');
-                }
-
-            });
-
-			$( "#aia1408476418" ).change(function() {
+			$( "#aia1983862419" ).change(function() {
             	$(this).css({'color': '#554344'});
             });
 
@@ -5291,15 +5204,15 @@ Find a branch
 
         +function ($) { "use strict";
 
-            $( "#aia1408476418" ).click(function() {
+            $( "#aia1983862419" ).click(function() {
                 var current = $(this).val();
                 if (current != null) {
-                	$("#aia1408476418").css('color','#554344');
+                	$("#aia1983862419").css('color','#554344');
                 }
 
             });
 
-			$( "#aia1408476418" ).change(function() {
+			$( "#aia1983862419" ).change(function() {
             	$(this).css({'color': '#554344'});
             });
 
@@ -5341,15 +5254,15 @@ Find a branch
 
         +function ($) { "use strict";
 
-            $( "#aia1408476418" ).click(function() {
+            $( "#aia1983862419" ).click(function() {
                 var current = $(this).val();
                 if (current != null) {
-                	$("#aia1408476418").css('color','#554344');
+                	$("#aia1983862419").css('color','#554344');
                 }
 
             });
 
-			$( "#aia1408476418" ).change(function() {
+			$( "#aia1983862419" ).change(function() {
             	$(this).css({'color': '#554344'});
             });
 
@@ -5361,6 +5274,26 @@ Find a branch
 服务咨询
 投诉
 建议
+$(function() {
+
+  var indexUrl = "/content/cn/zh-cn/tools/";
+    $('.service-div *[name=service1]').on('change',function(){
+      $(".main-div1").html("<div style=\"text-align: center;\">载入中...</div>");
+      var service = $('.service-div *[name=service1]').val();
+      if(service == "gmyy"){
+        var url ='appointment1.html';
+    	$.get(indexUrl + url, function(html) {
+    	  $('.main-div1').html(html);
+    	});
+      }else{
+        var url ='service1.html';
+    	$.get(indexUrl + url, function(html) {
+    	  $('.main-div1').html(html);
+    	});        
+      }
+    });
+
+  });
 产品介绍
     
 
@@ -5753,7 +5686,7 @@ Find a branch
         
 
     @media (min-width: 1200px) {
-        .factoid-7d7c682b {
+        .factoid-a04d414c {
             background-image:url('/content/dam/aia/background/region-map.png') !important;
         }
     }
@@ -6200,27 +6133,9 @@ Dismiss
 					
     				
 					
-						关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书
+						友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动  
 						
-							2017 年 8 月 21 日
-						
-						
-							
-								
-							
-						
-					
-					
-					
-				
-			
-				
-					
-    				
-					
-						友邦保险在2017年上半年缔造优秀业绩
-						
-							2017 年 7 月 28 日
+							2017 年 9 月 15 日
 						
 						
 							
@@ -6231,37 +6146,6 @@ Dismiss
 					
 					
 				
-			
-				
-					
-    				
-					
-						友邦保险三度蝉联百万圆桌会会员人数排名全球第一
-						
-							2017 年 7 月 13 日
-						
-						
-							
-								
-							
-						
-					
-					
-					
-				
-			
-		
-
-
-    
-        
-            查看所有新闻
-新闻速递
-    
-
-
-
-		
 			
 				
 					
@@ -6299,13 +6183,62 @@ Dismiss
 					
 				
 			
+		
+
+
+    
+        
+            查看所有新闻
+新闻速递
+    
+
+
+
+		
+			
 				
 					
     				
 					
-						友邦保险三度蝉联百万圆桌会会员人数排名全球第一
+						友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动  
 						
-							2017 年 7 月 13 日
+							2017 年 9 月 15 日
+						
+						
+							
+								
+							
+						
+					
+					
+					
+				
+			
+				
+					
+    				
+					
+						关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书
+						
+							2017 年 8 月 21 日
+						
+						
+							
+								
+							
+						
+					
+					
+					
+				
+			
+				
+					
+    				
+					
+						友邦保险在2017年上半年缔造优秀业绩
+						
+							2017 年 7 月 28 日
 						
 						
 							
@@ -6325,12 +6258,12 @@ Dismiss
             查看所有新闻
 新闻速递
 新闻速递
+友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动
+2017 年 9 月 15 日
 关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书
 2017 年 8 月 21 日
 友邦保险在2017年上半年缔造优秀业绩
 2017 年 7 月 28 日
-友邦保险三度蝉联百万圆桌会会员人数排名全球第一
-2017 年 7 月 13 日
 查看所有新闻
 联系我们
 固定电话

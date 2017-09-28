@@ -636,24 +636,6 @@
                                 {
                                   "value": "",
                                   "tag": "A",
-                                  "children": [
-                                    {
-                                      "value": "",
-                                      "tag": "IMG",
-                                      "imageLink": "/zhuzhan/resource/cms/2017/08/img_pc_site/2017081117195995871.jpg",
-                                      "children": []
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "value": "",
-                              "tag": "LI",
-                              "children": [
-                                {
-                                  "value": "",
-                                  "tag": "A",
                                   "contentLink": "http://www.chinalife.com.cn/online/activity/20170616/pc/ar.html",
                                   "children": [
                                     {
@@ -673,12 +655,12 @@
                                 {
                                   "value": "",
                                   "tag": "A",
-                                  "contentLink": "http://www.chinalife.com.cn/eportal/fileDir/subject/resource/syff/liulu/wx1.html",
+                                  "contentLink": "http://www.chinalife.com.cn/eportal/fileDir/subject/resource/0927更改字体/liulu/syff.html",
                                   "children": [
                                     {
                                       "value": "",
                                       "tag": "IMG",
-                                      "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017090616361259914.jpg",
+                                      "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092715281954609.jpg",
                                       "children": []
                                     }
                                   ]
@@ -716,7 +698,7 @@
                                     {
                                       "value": "",
                                       "tag": "IMG",
-                                      "imageLink": "/zhuzhan/resource/cms/2017/06/img_pc_site/2017060813081924182.jpg",
+                                      "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092711173497787.jpg",
                                       "children": []
                                     }
                                   ]
@@ -730,12 +712,12 @@
                                 {
                                   "value": "",
                                   "tag": "A",
-                                  "contentLink": "http://www.clpc.com.cn/rsbx/550842/578855/index.html",
+                                  "contentLink": "http://www.clpc.com.cn/rsbx/550842/579603/index.html",
                                   "children": [
                                     {
                                       "value": "",
                                       "tag": "IMG",
-                                      "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017091209275786267.jpg",
+                                      "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092811114764204.jpg",
                                       "children": []
                                     }
                                   ]
@@ -755,25 +737,6 @@
                                       "value": "",
                                       "tag": "IMG",
                                       "imageLink": "/zhuzhan/resource/cms/2017/06/img_pc_site/2017060813000150108.jpg",
-                                      "children": []
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "value": "",
-                              "tag": "LI",
-                              "children": [
-                                {
-                                  "value": "",
-                                  "tag": "A",
-                                  "contentLink": "http://gsfunds.com.cn/minisite/jingxuan/index.html",
-                                  "children": [
-                                    {
-                                      "value": "",
-                                      "tag": "IMG",
-                                      "imageLink": "/zhuzhan/resource/cms/2017/08/img_pc_site/2017083108412834647.jpg",
                                       "children": []
                                     }
                                   ]
@@ -2934,12 +2897,12 @@
                                     {
                                       "value": "",
                                       "tag": "A",
-                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182035/",
+                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197284/",
                                       "children": [
                                         {
                                           "value": "",
                                           "tag": "IMG",
-                                          "imageLink": "/zhuzhan/resource/cms/2017/06/img_pc_site/2017060110575642476.jpg",
+                                          "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092716502115482.jpg",
                                           "children": []
                                         }
                                       ]
@@ -2957,7 +2920,7 @@
                                             {
                                               "value": "",
                                               "tag": "A",
-                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182035/",
+                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197284/",
                                               "children": []
                                             }
                                           ]
@@ -2965,7 +2928,7 @@
                                         {
                                           "value": "",
                                           "tag": "A",
-                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182035/",
+                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197284/",
                                           "children": []
                                         }
                                       ]
@@ -2980,12 +2943,12 @@
                                     {
                                       "value": "",
                                       "tag": "A",
-                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182048/",
+                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197283/",
                                       "children": [
                                         {
                                           "value": "",
                                           "tag": "IMG",
-                                          "imageLink": "/zhuzhan/resource/cms/2017/06/img_pc_site/2017060111050658000.jpg",
+                                          "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092716380320882.jpg",
                                           "children": []
                                         }
                                       ]
@@ -3003,7 +2966,7 @@
                                             {
                                               "value": "",
                                               "tag": "A",
-                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182048/",
+                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197283/",
                                               "children": []
                                             }
                                           ]
@@ -3011,7 +2974,7 @@
                                         {
                                           "value": "",
                                           "tag": "A",
-                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182048/",
+                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197283/",
                                           "children": []
                                         }
                                       ]
@@ -3026,12 +2989,12 @@
                                     {
                                       "value": "",
                                       "tag": "A",
-                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182061/",
+                                      "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197252/",
                                       "children": [
                                         {
                                           "value": "",
                                           "tag": "IMG",
-                                          "imageLink": "/zhuzhan/resource/cms/2017/06/img_pc_site/2017060111031364375.jpg",
+                                          "imageLink": "/zhuzhan/resource/cms/2017/09/img_pc_site/2017092716124318858.jpg",
                                           "children": []
                                         }
                                       ]
@@ -3049,7 +3012,7 @@
                                             {
                                               "value": "",
                                               "tag": "A",
-                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182061/",
+                                              "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197252/",
                                               "children": []
                                             }
                                           ]
@@ -3057,7 +3020,7 @@
                                         {
                                           "value": "",
                                           "tag": "A",
-                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/182061/",
+                                          "contentLink": "/zhuzhan/chanpin/jiankangbaozhang/197252/",
                                           "children": []
                                         }
                                       ]
@@ -4777,6 +4740,110 @@
                               "class": "info_center_con",
                               "children": [
                                 {
+                                  "value": "中国人寿与安保集团签署战略合作谅解备忘录补充协议",
+                                  "tag": "LI",
+                                  "class": "clearfix",
+                                  "children": [
+                                    {
+                                      "value": "中国人寿与安保集团签署战略合作谅解备忘录补充协议",
+                                      "tag": "SPAN",
+                                      "class": "fl",
+                                      "children": [
+                                        {
+                                          "value": "中国人寿与安保集团签署战略合作谅解备忘录补充协议",
+                                          "tag": "A",
+                                          "contentLink": "/zhuzhan/news/news/196073/",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "[2017-09-20]",
+                                      "tag": "SPAN",
+                                      "class": "fr",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "value": "“大类资产配置国际论坛”举行 业界齐聚共话资产配置之道",
+                                  "tag": "LI",
+                                  "class": "clearfix",
+                                  "children": [
+                                    {
+                                      "value": "“大类资产配置国际论坛”举行 业界齐聚共话资产配置之道",
+                                      "tag": "SPAN",
+                                      "class": "fl",
+                                      "children": [
+                                        {
+                                          "value": "“大类资产配置国际论坛”举行 业界齐聚共话资产配置之道",
+                                          "tag": "A",
+                                          "contentLink": "/zhuzhan/news/news/195877/",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "[2017-09-18]",
+                                      "tag": "SPAN",
+                                      "class": "fr",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "value": "中国人寿与宁夏回族自治区人民政府签署战略合作协议",
+                                  "tag": "LI",
+                                  "class": "clearfix",
+                                  "children": [
+                                    {
+                                      "value": "中国人寿与宁夏回族自治区人民政府签署战略合作协议",
+                                      "tag": "SPAN",
+                                      "class": "fl",
+                                      "children": [
+                                        {
+                                          "value": "中国人寿与宁夏回族自治区人民政府签署战略合作协议",
+                                          "tag": "A",
+                                          "contentLink": "/zhuzhan/news/news/195715/",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "[2017-09-15]",
+                                      "tag": "SPAN",
+                                      "class": "fr",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "value": "中国人寿与中国银行签署全面合作协议",
+                                  "tag": "LI",
+                                  "class": "clearfix",
+                                  "children": [
+                                    {
+                                      "value": "中国人寿与中国银行签署全面合作协议",
+                                      "tag": "SPAN",
+                                      "class": "fl",
+                                      "children": [
+                                        {
+                                          "value": "中国人寿与中国银行签署全面合作协议",
+                                          "tag": "A",
+                                          "contentLink": "/zhuzhan/news/news/195656/",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "[2017-09-12]",
+                                      "tag": "SPAN",
+                                      "class": "fr",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
                                   "value": "中国人寿成功举办境内市场化委托投资管理人大会",
                                   "tag": "LI",
                                   "class": "clearfix",
@@ -4822,110 +4889,6 @@
                                     },
                                     {
                                       "value": "[2017-08-22]",
-                                      "tag": "SPAN",
-                                      "class": "fr",
-                                      "children": []
-                                    }
-                                  ]
-                                },
-                                {
-                                  "value": "“国寿演说家”全系统总决赛成功举行",
-                                  "tag": "LI",
-                                  "class": "clearfix",
-                                  "children": [
-                                    {
-                                      "value": "“国寿演说家”全系统总决赛成功举行",
-                                      "tag": "SPAN",
-                                      "class": "fl",
-                                      "children": [
-                                        {
-                                          "value": "“国寿演说家”全系统总决赛成功举行",
-                                          "tag": "A",
-                                          "contentLink": "/zhuzhan/news/news/194172/",
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "value": "[2017-08-10]",
-                                      "tag": "SPAN",
-                                      "class": "fr",
-                                      "children": []
-                                    }
-                                  ]
-                                },
-                                {
-                                  "value": "中国人寿与姚明合作十周年纪念暨冠名青少年篮球公开赛活动在...",
-                                  "tag": "LI",
-                                  "class": "clearfix",
-                                  "children": [
-                                    {
-                                      "value": "中国人寿与姚明合作十周年纪念暨冠名青少年篮球公开赛活动在...",
-                                      "tag": "SPAN",
-                                      "class": "fl",
-                                      "children": [
-                                        {
-                                          "value": "中国人寿与姚明合作十周年纪念暨冠名青少年篮球公开赛活动在...",
-                                          "tag": "A",
-                                          "contentLink": "/zhuzhan/news/news/193813/",
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "value": "[2017-08-07]",
-                                      "tag": "SPAN",
-                                      "class": "fr",
-                                      "children": []
-                                    }
-                                  ]
-                                },
-                                {
-                                  "value": "中国人寿集团召开党委会、上半年经营形势分析会传达学习全国...",
-                                  "tag": "LI",
-                                  "class": "clearfix",
-                                  "children": [
-                                    {
-                                      "value": "中国人寿集团召开党委会、上半年经营形势分析会传达学习全国...",
-                                      "tag": "SPAN",
-                                      "class": "fl",
-                                      "children": [
-                                        {
-                                          "value": "中国人寿集团召开党委会、上半年经营形势分析会传达学习全国...",
-                                          "tag": "A",
-                                          "contentLink": "/zhuzhan/news/news/192612/",
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "value": "[2017-07-26]",
-                                      "tag": "SPAN",
-                                      "class": "fr",
-                                      "children": []
-                                    }
-                                  ]
-                                },
-                                {
-                                  "value": "坚定不移推进转型升级、提质增效——解读中国人寿财险健康发...",
-                                  "tag": "LI",
-                                  "class": "clearfix",
-                                  "children": [
-                                    {
-                                      "value": "坚定不移推进转型升级、提质增效——解读中国人寿财险健康发...",
-                                      "tag": "SPAN",
-                                      "class": "fl",
-                                      "children": [
-                                        {
-                                          "value": "坚定不移推进转型升级、提质增效——解读中国人寿财险健康发...",
-                                          "tag": "A",
-                                          "contentLink": "/zhuzhan/news/news/192592/",
-                                          "children": []
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "value": "[2017-07-25]",
                                       "tag": "SPAN",
                                       "class": "fr",
                                       "children": []

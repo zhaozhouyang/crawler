@@ -1002,19 +1002,6 @@
                                   "children": []
                                 }
                               ]
-                            },
-                            {
-                              "value": "理赔收据公示查询",
-                              "tag": "LI",
-                              "children": [
-                                {
-                                  "value": "理赔收据公示查询",
-                                  "tag": "A",
-                                  "contentLink": "/zh-cn/fuwu/lipeigongshi.html",
-                                  "class": "h6 b5",
-                                  "children": []
-                                }
-                              ]
                             }
                           ]
                         }
@@ -4138,71 +4125,6 @@
                                                               ]
                                                             }
                                                           ]
-                                                        },
-                                                        {
-                                                          "value": "",
-                                                          "tag": "LI",
-                                                          "class": "list-ele",
-                                                          "children": [
-                                                            {
-                                                              "value": "",
-                                                              "tag": "A",
-                                                              "contentLink": "/zh-cn/fuwu/lipeigongshi.html",
-                                                              "children": [
-                                                                {
-                                                                  "value": "",
-                                                                  "tag": "DIV",
-                                                                  "class": "thumbnail",
-                                                                  "children": [
-                                                                    {
-                                                                      "value": "",
-                                                                      "tag": "SVG",
-                                                                      "class": "icon icon-s hide-on-fallback ",
-                                                                      "children": [
-                                                                        {
-                                                                          "value": "",
-                                                                          "tag": "G",
-                                                                          "children": [
-                                                                            {
-                                                                              "value": "",
-                                                                              "tag": "USE",
-                                                                              "children": []
-                                                                            },
-                                                                            {
-                                                                              "value": "",
-                                                                              "tag": "IMAGE",
-                                                                              "imageLink": "/content/dam/aia/icons/secondary/factsheet-2ndg.png",
-                                                                              "class": "icon icon-s ",
-                                                                              "children": []
-                                                                            }
-                                                                          ]
-                                                                        }
-                                                                      ]
-                                                                    }
-                                                                  ]
-                                                                },
-                                                                {
-                                                                  "value": "",
-                                                                  "tag": "DIV",
-                                                                  "class": "content",
-                                                                  "children": [
-                                                                    {
-                                                                      "value": "理赔收据公示查询",
-                                                                      "tag": "H6",
-                                                                      "class": "p3",
-                                                                      "children": []
-                                                                    },
-                                                                    {
-                                                                      "value": "",
-                                                                      "tag": "P",
-                                                                      "class": "p3 bt5",
-                                                                      "children": []
-                                                                    }
-                                                                  ]
-                                                                }
-                                                              ]
-                                                            }
-                                                          ]
                                                         }
                                                       ]
                                                     }
@@ -4442,7 +4364,7 @@
                                                             {
                                                               "value": "",
                                                               "tag": "A",
-                                                              "contentLink": "https://ebiz.aia.com.cn/eservice/auth/login.do",
+                                                              "contentLink": "https://my.aia.com.cn/zh-cn/login.html",
                                                               "children": [
                                                                 {
                                                                   "value": "",
@@ -5546,6 +5468,96 @@
                 {
                   "value": "",
                   "tag": "DIV",
+                  "class": "slide-container slide-bg ci-dc ci-tc ci-mc",
+                  "children": [
+                    {
+                      "value": "",
+                      "tag": "DIV",
+                      "class": "slide-container slide-bg ci-dc ci-tc ci-mc",
+                      "children": [
+                        {
+                          "value": "",
+                          "tag": "SPAN",
+                          "class": "image-responsive-title",
+                          "children": []
+                        },
+                        {
+                          "value": "",
+                          "tag": "DIV",
+                          "class": "slide-content centered-content",
+                          "children": [
+                            {
+                              "value": "",
+                              "tag": "DIV",
+                              "class": "heading margin-bottom-m",
+                              "children": [
+                                {
+                                  "value": "终点之后多跑1KM",
+                                  "tag": "H1",
+                                  "children": [
+                                    {
+                                      "value": "",
+                                      "tag": "BR",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "value": "",
+                              "tag": "P",
+                              "class": "bt3 w subheading",
+                              "children": []
+                            },
+                            {
+                              "value": "",
+                              "tag": "DIV",
+                              "class": "carousel-actions",
+                              "children": [
+                                {
+                                  "value": "",
+                                  "tag": "DIV",
+                                  "class": "button-container",
+                                  "children": [
+                                    {
+                                      "value": "",
+                                      "tag": "DIV",
+                                      "children": [
+                                        {
+                                          "value": "",
+                                          "tag": "A",
+                                          "contentLink": "/zh-cn/aia/media/shichanghuodong/whatsyourwhy.html",
+                                          "children": [
+                                            {
+                                              "value": "活动详情",
+                                              "tag": "BUTTON",
+                                              "class": "btn btn-image btn-primary   ",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "value": "",
+                          "tag": "DIV",
+                          "class": "image-overlay opacity-50",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "value": "",
+                  "tag": "DIV",
                   "class": "slide-container slide-bg ci-dc ci-tc ci-mr",
                   "children": [
                     {
@@ -5606,96 +5618,6 @@
                                           "value": "",
                                           "tag": "A",
                                           "contentLink": "/zh-cn/aia/media/shichanghuodong/baofeishisuan.html",
-                                          "children": [
-                                            {
-                                              "value": "活动详情",
-                                              "tag": "BUTTON",
-                                              "class": "btn btn-image btn-primary   ",
-                                              "children": []
-                                            }
-                                          ]
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "value": "",
-                          "tag": "DIV",
-                          "class": "image-overlay opacity-50",
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "value": "",
-                  "tag": "DIV",
-                  "class": "slide-container slide-bg ci-dc ci-tl ci-ml",
-                  "children": [
-                    {
-                      "value": "",
-                      "tag": "DIV",
-                      "class": "slide-container slide-bg ci-dc ci-tc ci-mc",
-                      "children": [
-                        {
-                          "value": "",
-                          "tag": "SPAN",
-                          "class": "image-responsive-title",
-                          "children": []
-                        },
-                        {
-                          "value": "",
-                          "tag": "DIV",
-                          "class": "slide-content centered-content",
-                          "children": [
-                            {
-                              "value": "",
-                              "tag": "DIV",
-                              "class": "heading margin-bottom-m",
-                              "children": [
-                                {
-                                  "value": "换个地方约会",
-                                  "tag": "H1",
-                                  "children": [
-                                    {
-                                      "value": "",
-                                      "tag": "BR",
-                                      "children": []
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "value": "",
-                              "tag": "P",
-                              "class": "bt3 w subheading",
-                              "children": []
-                            },
-                            {
-                              "value": "",
-                              "tag": "DIV",
-                              "class": "carousel-actions",
-                              "children": [
-                                {
-                                  "value": "",
-                                  "tag": "DIV",
-                                  "class": "button-container",
-                                  "children": [
-                                    {
-                                      "value": "",
-                                      "tag": "DIV",
-                                      "children": [
-                                        {
-                                          "value": "",
-                                          "tag": "A",
-                                          "contentLink": "https://ebiz.aia.com.cn/jiankangyouxing/index.html?cmpid=banner-cnecomm-2017wellness-website",
                                           "children": [
                                             {
                                               "value": "活动详情",
@@ -6060,13 +5982,13 @@
                       "class": "tab-content",
                       "children": [
                         {
-                          "value": "保费试算有礼",
+                          "value": "友邦保险 X 贝克汉姆",
                           "tag": "H6",
                           "class": "w title margin-bottom-xxs",
                           "children": []
                         },
                         {
-                          "value": "赢取一号店礼品卡和冰激凌券",
+                          "value": "关注全球大使小贝，赢取酷炫好礼！",
                           "tag": "P",
                           "class": "bt5 w",
                           "children": []
@@ -6086,13 +6008,13 @@
                       "class": "tab-content",
                       "children": [
                         {
-                          "value": "健康友行",
+                          "value": "保费试算有礼",
                           "tag": "H6",
                           "class": "w title margin-bottom-xxs",
                           "children": []
                         },
                         {
-                          "value": "一点改变，开启健康长久好生活",
+                          "value": "赢取一号店礼品卡和冰激凌券",
                           "tag": "P",
                           "class": "bt5 w",
                           "children": []
@@ -8803,7 +8725,7 @@
                   "class": "col col-md-10 col-sm-12 col-xs-12 col-md-offset-0 col-sm-offset-0 col-xs-offset-0 ",
                   "children": [
                     {
-                      "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1408476418\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1408476418\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1408476418\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);\n\n    \n\n\n\r\n        \r\n        \r\n            \n\r\n    \r\n\r\n\n\n\n    \n\n\n\r\n\r\n\r\n\r\n\r\n  $(function() {\r\n\r\n  var indexUrl = \"/content/cn/zh-cn/tools/\";\r\n    $('.service-div *[name=service1]').on('change',function(){\r\n      $(\".main-div1\").html(\"<div style=\\\"text-align: center;\\\">载入中...</div>\");\r\n      var service = $('.service-div *[name=service1]').val();\r\n      if(service == \"gmyy\"){\r\n        var url ='appointment1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});\r\n      }else{\r\n        var url ='service1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});        \r\n      }\r\n    });\r\n\r\n  });",
+                      "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1983862419\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1983862419\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1983862419\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);\n\n    \n\n\n\r\n        \r\n        \r\n            \n\r\n    \r\n\r\n\n\n\n    \n\n\n\n\r\n\t\r\n\r\n\n\r\n\r\n\r\n\t\t\r\n\r\n\r\n\r\n\r\n  $(function() {\r\n\r\n  var indexUrl = \"/content/cn/zh-cn/tools/\";\r\n    $('.service-div *[name=service1]').on('change',function(){\r\n      $(\".main-div1\").html(\"<div style=\\\"text-align: center;\\\">载入中...</div>\");\r\n      var service = $('.service-div *[name=service1]').val();\r\n      if(service == \"gmyy\"){\r\n        var url ='appointment1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});\r\n      }else{\r\n        var url ='service1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});        \r\n      }\r\n    });\r\n\r\n  });",
                       "tag": "DIV",
                       "children": [
                         {
@@ -8816,7 +8738,7 @@
                               "tag": "DIV",
                               "children": [
                                 {
-                                  "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1408476418\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1408476418\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1408476418\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);\n\n    \n\n\n\r\n        \r\n        \r\n            \n\r\n    \r\n\r\n\n\n\n    \n\n\n\r\n\r\n\r\n\r\n\r\n  $(function() {\r\n\r\n  var indexUrl = \"/content/cn/zh-cn/tools/\";\r\n    $('.service-div *[name=service1]').on('change',function(){\r\n      $(\".main-div1\").html(\"<div style=\\\"text-align: center;\\\">载入中...</div>\");\r\n      var service = $('.service-div *[name=service1]').val();\r\n      if(service == \"gmyy\"){\r\n        var url ='appointment1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});\r\n      }else{\r\n        var url ='service1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});        \r\n      }\r\n    });\r\n\r\n  });",
+                                  "value": "",
                                   "tag": "SECTION",
                                   "children": [
                                     {
@@ -8835,11 +8757,37 @@
                                               "class": "col col-md-10 col-sm-12 col-xs-12 col-md-offset-2 col-sm-offset-0 col-xs-offset-0 ",
                                               "children": [
                                                 {
-                                                  "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1408476418\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1408476418\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1408476418\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
+                                                  "value": "",
+                                                  "tag": "DIV",
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "",
+                                      "tag": "DIV",
+                                      "class": "grid-control-1-col section",
+                                      "children": [
+                                        {
+                                          "value": "",
+                                          "tag": "DIV",
+                                          "class": "row ",
+                                          "children": [
+                                            {
+                                              "value": "",
+                                              "tag": "DIV",
+                                              "class": "col col-md-12 col-sm-12 col-xs-12 col-md-offset-2 col-sm-offset-0 col-xs-offset-0 ",
+                                              "children": [
+                                                {
+                                                  "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1983862419\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1983862419\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1983862419\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
                                                   "tag": "DIV",
                                                   "children": [
                                                     {
-                                                      "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1408476418\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1408476418\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1408476418\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
+                                                      "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1983862419\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1983862419\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1983862419\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
                                                       "tag": "DIV",
                                                       "class": "section-container section",
                                                       "children": [
@@ -8854,7 +8802,7 @@
                                                               "class": "container ",
                                                               "children": [
                                                                 {
-                                                                  "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1408476418\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1408476418\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1408476418\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
+                                                                  "value": "您需要我们提供什么服务？*\n        \n        \n            \r\n\r\n\n        \n    \n\n    \n\n\n\n\n    \n        请选择\n        \n        \n            购买预约\n            \n        \n            服务咨询\n            \n        \n            投诉\n            \n        \n            建议\n            \n        \n    \n    \n\n    \n\n        +function ($) { \"use strict\";\n\n            $( \"#aia1983862419\" ).click(function() {\n                var current = $(this).val();\n                if (current != null) {\n                \t$(\"#aia1983862419\").css('color','#554344');\n                }\n\n            });\n\n\t\t\t$( \"#aia1983862419\" ).change(function() {\n            \t$(this).css({'color': '#554344'});\n            });\n\n        }(jQuery);",
                                                                   "tag": "DIV",
                                                                   "children": [
                                                                     {
@@ -8967,7 +8915,34 @@
                                                           ]
                                                         }
                                                       ]
-                                                    },
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "value": "",
+                                      "tag": "DIV",
+                                      "class": "grid-control-1-col section",
+                                      "children": [
+                                        {
+                                          "value": "",
+                                          "tag": "DIV",
+                                          "class": "row ",
+                                          "children": [
+                                            {
+                                              "value": "",
+                                              "tag": "DIV",
+                                              "class": "col col-md-12 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-xs-offset-0 ",
+                                              "children": [
+                                                {
+                                                  "value": "$(function() {\r\n\r\n  var indexUrl = \"/content/cn/zh-cn/tools/\";\r\n    $('.service-div *[name=service1]').on('change',function(){\r\n      $(\".main-div1\").html(\"<div style=\\\"text-align: center;\\\">载入中...</div>\");\r\n      var service = $('.service-div *[name=service1]').val();\r\n      if(service == \"gmyy\"){\r\n        var url ='appointment1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});\r\n      }else{\r\n        var url ='service1.html';\r\n    \t$.get(indexUrl + url, function(html) {\r\n    \t  $('.main-div1').html(html);\r\n    \t});        \r\n      }\r\n    });\r\n\r\n  });",
+                                                  "tag": "DIV",
+                                                  "children": [
                                                     {
                                                       "value": "",
                                                       "tag": "DIV",
@@ -11068,7 +11043,7 @@
           ]
         },
         {
-          "value": "友邦保险\r\n                规模及优势\r\n            \r\n            \r\n        \r\n        \r\n    \r\n    \r\n\t\r\n        Dismiss友邦保险企业概况\r\n    \r\n    \r\n\n    \n    \n        \r\n\r\n    @media (min-width: 1200px) {\r\n        .factoid-7d7c682b {\r\n            background-image:url('/content/dam/aia/background/region-map.png') !important;\r\n        }\r\n    }\r\n\r\n    \r\n         \r\n    \r\n    \r\n        \r\n             \r\n            \r\n                近百年基业\r\n                发展里程碑\r\n            \r\n            \r\n        \r\n        \r\n    \r\n    \r\n\t\r\n        Dismiss友邦保险大事记",
+          "value": "友邦保险\r\n                规模及优势\r\n            \r\n            \r\n        \r\n        \r\n    \r\n    \r\n\t\r\n        Dismiss友邦保险企业概况\r\n    \r\n    \r\n\n    \n    \n        \r\n\r\n    @media (min-width: 1200px) {\r\n        .factoid-a04d414c {\r\n            background-image:url('/content/dam/aia/background/region-map.png') !important;\r\n        }\r\n    }\r\n\r\n    \r\n         \r\n    \r\n    \r\n        \r\n             \r\n            \r\n                近百年基业\r\n                发展里程碑\r\n            \r\n            \r\n        \r\n        \r\n    \r\n    \r\n\t\r\n        Dismiss友邦保险大事记",
           "tag": "DIV",
           "class": "container factoid-container section",
           "children": [
@@ -11236,7 +11211,7 @@
                             {
                               "value": "",
                               "tag": "DIV",
-                              "class": "factoid factoid-7d7c682b factoid-large pull-content-up-sm ",
+                              "class": "factoid factoid-a04d414c factoid-large pull-content-up-sm ",
                               "children": [
                                 {
                                   "value": "",
@@ -12548,7 +12523,7 @@
           ]
         },
         {
-          "value": "新闻速递\n    \n\n\r\n\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 8 月 21 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险在2017年上半年缔造优秀业绩\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 28 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险三度蝉联百万圆桌会会员人数排名全球第一\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 13 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\r\n\n\r\n    \r\n        \r\n            查看所有新闻",
+          "value": "新闻速递\n    \n\n\r\n\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动  \r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 9 月 15 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 8 月 21 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险在2017年上半年缔造优秀业绩\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 28 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\r\n\n\r\n    \r\n        \r\n            查看所有新闻",
           "tag": "DIV",
           "class": "section-container section",
           "children": [
@@ -12562,7 +12537,7 @@
                   "class": "container ",
                   "children": [
                     {
-                      "value": "新闻速递\n    \n\n\r\n\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 8 月 21 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险在2017年上半年缔造优秀业绩\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 28 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险三度蝉联百万圆桌会会员人数排名全球第一\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 13 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\r\n\n\r\n    \r\n        \r\n            查看所有新闻",
+                      "value": "新闻速递\n    \n\n\r\n\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动  \r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 9 月 15 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t关于商毅医生集团发布有关友邦保险不实信息的澄清与声明书\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 8 月 21 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n    \t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t友邦保险在2017年上半年缔造优秀业绩\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t2017 年 7 月 28 日\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\r\n\n\r\n    \r\n        \r\n            查看所有新闻",
                       "tag": "DIV",
                       "children": [
                         {
@@ -12611,6 +12586,63 @@
                                                   "tag": "UL",
                                                   "class": "list-13",
                                                   "children": [
+                                                    {
+                                                      "value": "",
+                                                      "tag": "LI",
+                                                      "children": [
+                                                        {
+                                                          "value": "",
+                                                          "tag": "A",
+                                                          "contentLink": "/zh-cn/aia/media/news/2017/xiuchunideliyou.html",
+                                                          "children": [
+                                                            {
+                                                              "value": "友邦保险与大卫·贝克汉姆正式展开合作  推出“秀出你的理由”推广活动",
+                                                              "tag": "H5",
+                                                              "class": "margin-bottom-xs",
+                                                              "children": []
+                                                            },
+                                                            {
+                                                              "value": "2017 年 9 月 15 日",
+                                                              "tag": "P",
+                                                              "class": "bt3 p3",
+                                                              "children": []
+                                                            },
+                                                            {
+                                                              "value": "",
+                                                              "tag": "DIV",
+                                                              "class": "glyph-r-arrow pull-right-svg vertical-center",
+                                                              "children": [
+                                                                {
+                                                                  "value": "",
+                                                                  "tag": "SVG",
+                                                                  "class": "icon icon-m hide-on-fallback ",
+                                                                  "children": [
+                                                                    {
+                                                                      "value": "",
+                                                                      "tag": "G",
+                                                                      "children": [
+                                                                        {
+                                                                          "value": "",
+                                                                          "tag": "USE",
+                                                                          "children": []
+                                                                        },
+                                                                        {
+                                                                          "value": "",
+                                                                          "tag": "IMAGE",
+                                                                          "imageLink": "/content/dam/aia/icons/secondary/arrow-2ndg.png",
+                                                                          "class": "icon icon-m ",
+                                                                          "children": []
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
                                                     {
                                                       "value": "",
                                                       "tag": "LI",
@@ -12685,63 +12717,6 @@
                                                             },
                                                             {
                                                               "value": "2017 年 7 月 28 日",
-                                                              "tag": "P",
-                                                              "class": "bt3 p3",
-                                                              "children": []
-                                                            },
-                                                            {
-                                                              "value": "",
-                                                              "tag": "DIV",
-                                                              "class": "glyph-r-arrow pull-right-svg vertical-center",
-                                                              "children": [
-                                                                {
-                                                                  "value": "",
-                                                                  "tag": "SVG",
-                                                                  "class": "icon icon-m hide-on-fallback ",
-                                                                  "children": [
-                                                                    {
-                                                                      "value": "",
-                                                                      "tag": "G",
-                                                                      "children": [
-                                                                        {
-                                                                          "value": "",
-                                                                          "tag": "USE",
-                                                                          "children": []
-                                                                        },
-                                                                        {
-                                                                          "value": "",
-                                                                          "tag": "IMAGE",
-                                                                          "imageLink": "/content/dam/aia/icons/secondary/arrow-2ndg.png",
-                                                                          "class": "icon icon-m ",
-                                                                          "children": []
-                                                                        }
-                                                                      ]
-                                                                    }
-                                                                  ]
-                                                                }
-                                                              ]
-                                                            }
-                                                          ]
-                                                        }
-                                                      ]
-                                                    },
-                                                    {
-                                                      "value": "",
-                                                      "tag": "LI",
-                                                      "children": [
-                                                        {
-                                                          "value": "",
-                                                          "tag": "A",
-                                                          "contentLink": "/zh-cn/aia/media/news/2017/baiwanyuanzhuohuiyi.html",
-                                                          "children": [
-                                                            {
-                                                              "value": "友邦保险三度蝉联百万圆桌会会员人数排名全球第一",
-                                                              "tag": "H5",
-                                                              "class": "margin-bottom-xs",
-                                                              "children": []
-                                                            },
-                                                            {
-                                                              "value": "2017 年 7 月 13 日",
                                                               "tag": "P",
                                                               "class": "bt3 p3",
                                                               "children": []
