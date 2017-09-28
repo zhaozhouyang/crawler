@@ -1,0 +1,18 @@
+{
+  "author": "jojoyoung",
+  "name": "SuperCrawler",
+  "description": "SuperCrawler",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "json-to-html": "^0.1.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
